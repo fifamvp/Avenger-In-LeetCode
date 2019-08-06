@@ -37,6 +37,9 @@
     <Filter Include="Header Files\String to Integer %28atoi%29">
       <UniqueIdentifier>{f3a5b760-4747-4e1c-89c4-1c35dce2bfca}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Palindrome Number">
+      <UniqueIdentifier>{4d88e2c7-9b07-417d-9aa1-335b21357484}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -65,6 +68,9 @@
     </ClInclude>
     <ClInclude Include="StringToInteger.h">
       <Filter>Header Files\String to Integer %28atoi%29</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromeNumber.h">
+      <Filter>Header Files\Palindrome Number</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

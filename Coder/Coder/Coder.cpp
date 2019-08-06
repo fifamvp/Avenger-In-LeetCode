@@ -3,15 +3,17 @@
 
 #include "pch.h"
 #include <iostream>
-
+#include "PalindromeNumber.h"
 using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
+    std::cout << "It's show time!\n"; 
 
 	///test place
 
+	PalindromeNumber a;
+	a.Solve();
 
 	///
 
