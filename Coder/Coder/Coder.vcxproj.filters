@@ -34,6 +34,9 @@
     <Filter Include="Header Files\Reverse Integer">
       <UniqueIdentifier>{e9e407f4-c6a6-41be-9542-6bcf346a0d46}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\String to Integer %28atoi%29">
+      <UniqueIdentifier>{f3a5b760-4747-4e1c-89c4-1c35dce2bfca}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -59,6 +62,9 @@
     </ClInclude>
     <ClInclude Include="ReverseInteger.h">
       <Filter>Header Files\Reverse Integer</Filter>
+    </ClInclude>
+    <ClInclude Include="StringToInteger.h">
+      <Filter>Header Files\String to Integer %28atoi%29</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

@@ -156,6 +156,7 @@
     <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h" />
     <ClInclude Include="MedianOfTwoSortedArrays.h" />
     <ClInclude Include="ReverseInteger.h" />
+    <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="ZigZagConversion.h" />
     <ClInclude Include="pch.h" />
