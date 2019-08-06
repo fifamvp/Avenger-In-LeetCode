@@ -10,6 +10,11 @@ int main()
 {
     std::cout << "Hello World!\n"; 
 
+	///test place
+
+
+	///
+
 	system("pause");
 
 	return 0;

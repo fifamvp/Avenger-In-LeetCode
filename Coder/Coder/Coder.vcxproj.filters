@@ -31,6 +31,9 @@
     <Filter Include="Header Files\Longest Palindromic Substring">
       <UniqueIdentifier>{60f642f7-7900-4100-b496-fcb26a90a3c8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Reverse Integer">
+      <UniqueIdentifier>{e9e407f4-c6a6-41be-9542-6bcf346a0d46}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -53,6 +56,9 @@
     </ClInclude>
     <ClInclude Include="LongestPalindromicSubstring.h">
       <Filter>Header Files\Longest Palindromic Substring</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseInteger.h">
+      <Filter>Header Files\Reverse Integer</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
