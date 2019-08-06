@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\ZigZag Conversion">
+      <UniqueIdentifier>{f6832848-7fb8-4a8b-a555-532385760b76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Two Sum">
+      <UniqueIdentifier>{69e0b4bd-2553-4e26-b089-9692f3eb0013}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Add Two Numbers">
+      <UniqueIdentifier>{e67391a8-23c2-414d-b977-9eebae7dff02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Longest Substring Without Repeating Characters">
+      <UniqueIdentifier>{3d9d7c89-ff6c-4dc2-83a5-cd2cc2affc61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Median of Two Sorted Arrays">
+      <UniqueIdentifier>{cdc1cbcd-9f39-4fb0-8a19-6032e937739c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Longest Palindromic Substring">
+      <UniqueIdentifier>{60f642f7-7900-4100-b496-fcb26a90a3c8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZigZagConversion.h">
+      <Filter>Header Files\ZigZag Conversion</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSum.h">
+      <Filter>Header Files\Two Sum</Filter>
+    </ClInclude>
+    <ClInclude Include="AddTwoNumbers.h">
+      <Filter>Header Files\Add Two Numbers</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h">
+      <Filter>Header Files\Longest Substring Without Repeating Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="MedianOfTwoSortedArrays.h">
+      <Filter>Header Files\Median of Two Sorted Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestPalindromicSubstring.h">
+      <Filter>Header Files\Longest Palindromic Substring</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Coder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
