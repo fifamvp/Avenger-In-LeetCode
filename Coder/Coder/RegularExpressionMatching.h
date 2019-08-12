@@ -1,5 +1,6 @@
 #pragma once
 #include<string>
+#include<vector>
 using namespace std;
 class RegularExpressionMatching
 {
@@ -43,7 +44,7 @@ private:
 	}*/
 
 	// DP
-	bool isMatch(string s, string p)
+	/*bool isMatch(string s, string p)
 	{
 		if (p.empty())return s.empty();
 
@@ -84,6 +85,32 @@ private:
 		}
 		result[i][j] = r;
 		return r;
+	}*/
+
+
+	bool isMatch(string s, string p)
+	{
+		if (p.empty())return s.empty();
+
+		vector<vector<bool>> dp(s.size() + 1, vector<bool>(p.size() + 1, false));
+
+		dp[0][0] = true;
+		for (size_t i = 0; i <= s.size(); i++)
+		{
+			for (size_t j = 1; j <= p.size(); j++)
+			{
+				if (p[j - 1] == '*')
+				{
+					dp[i][j] = dp[i][j - 2] || i && dp[i - 1][j] && j >= 2 && (s[i - 1] == p[j - 2] || p[j - 2] == '.') ;
+				}
+				else
+				{
+					dp[i][j] = i && dp[i - 1][j - 1] && (s[i - 1] == p[j - 1] || p[j - 1] == '.');
+				}
+			}
+		}
+
+		return dp[s.size()][p.size()];
 	}
 };
 
