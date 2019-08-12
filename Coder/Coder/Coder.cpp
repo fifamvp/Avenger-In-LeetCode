@@ -3,7 +3,7 @@
 
 #include "pch.h"
 #include <iostream>
-#include "PalindromeNumber.h"
+#include "RegularExpressionMatching.h"
 using namespace std;
 
 int main()
@@ -12,7 +12,7 @@ int main()
 
 	///test place
 
-	PalindromeNumber a;
+	RegularExpressionMatching a;
 	a.Solve();
 
 	///

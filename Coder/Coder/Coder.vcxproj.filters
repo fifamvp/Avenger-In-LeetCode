@@ -40,6 +40,9 @@
     <Filter Include="Header Files\Palindrome Number">
       <UniqueIdentifier>{4d88e2c7-9b07-417d-9aa1-335b21357484}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Regular Expression Matching">
+      <UniqueIdentifier>{f7584582-a050-4cdc-9950-a7d6d9128301}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -71,6 +74,9 @@
     </ClInclude>
     <ClInclude Include="PalindromeNumber.h">
       <Filter>Header Files\Palindrome Number</Filter>
+    </ClInclude>
+    <ClInclude Include="RegularExpressionMatching.h">
+      <Filter>Header Files\Regular Expression Matching</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
