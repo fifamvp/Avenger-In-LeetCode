@@ -46,6 +46,9 @@
     <Filter Include="Header Files\Container With Most Water">
       <UniqueIdentifier>{6f65bf4a-8976-48dd-9656-a5382a353efd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Integer to Roman">
+      <UniqueIdentifier>{967d2d78-1db8-481d-b642-be5d76787bcf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -83,6 +86,9 @@
     </ClInclude>
     <ClInclude Include="ContainerWithMostWater.h">
       <Filter>Header Files\Container With Most Water</Filter>
+    </ClInclude>
+    <ClInclude Include="IntegerToRoman.h">
+      <Filter>Header Files\Integer to Roman</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
