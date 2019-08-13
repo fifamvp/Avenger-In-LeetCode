@@ -3,7 +3,7 @@
 
 #include "pch.h"
 #include <iostream>
-#include "IntegerToRoman.h"
+#include "RomanToInteger.h"
 using namespace std;
 
 int main()
@@ -12,7 +12,7 @@ int main()
 
 	///test place
 
-	IntegerToRoman a;
+	RomanToInteger a;
 	a.Solve();
 
 	///

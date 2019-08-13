@@ -160,6 +160,7 @@
     <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="RegularExpressionMatching.h" />
     <ClInclude Include="ReverseInteger.h" />
+    <ClInclude Include="RomanToInteger.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="ZigZagConversion.h" />

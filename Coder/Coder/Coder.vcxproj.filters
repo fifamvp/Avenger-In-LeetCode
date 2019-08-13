@@ -49,6 +49,9 @@
     <Filter Include="Header Files\Integer to Roman">
       <UniqueIdentifier>{967d2d78-1db8-481d-b642-be5d76787bcf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Roman to Integer">
+      <UniqueIdentifier>{290a2530-c516-434f-9475-284939086212}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -89,6 +92,9 @@
     </ClInclude>
     <ClInclude Include="IntegerToRoman.h">
       <Filter>Header Files\Integer to Roman</Filter>
+    </ClInclude>
+    <ClInclude Include="RomanToInteger.h">
+      <Filter>Header Files\Roman to Integer</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
