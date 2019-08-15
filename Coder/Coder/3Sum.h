@@ -12,6 +12,7 @@ public:
 	void Solve()
 	{
 		vector<int> test = { -1, 0, 1, 2, -1, -4 };
+		//test = { -1, -1, 0, 0, 0, 1 };
 
 		auto r = threeSum(test);
 		for (size_t i = 0; i < r.size(); i++)
@@ -47,19 +48,22 @@ private:
 
 	void pick(vector<int>& arr, vector<vector<int>>& result)
 	{
+		int rightSide = arr.size();
 		for (int i = 0; i < arr.size() && arr[i] <= 0; i++)
 		{
 			//skip duplicated
 			if (i > 0 && arr[i] == arr[i - 1])continue;
-			int rightSide = arr.size();
-			for (int j = i + 1; j < rightSide; j++)
+			int subRightSide = rightSide;
+			for (int j = i + 1; j < subRightSide; j++)
 			{
 				if (j > i + 1 && arr[j] == arr[j - 1])continue;
-				for (int k = rightSide - 1; k > j && arr[k] >= 0; k--)
+				for (int k = subRightSide - 1; k > j && arr[k] >= 0; k--)
 				{
 					if (arr[i] + arr[j] + arr[k] > 0)
 					{
-						rightSide = k;
+						subRightSide = k;
+						if (j == i + 1)
+							rightSide = k;
 					}
 					else
 					{
