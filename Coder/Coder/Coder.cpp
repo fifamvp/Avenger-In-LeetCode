@@ -3,8 +3,7 @@
 
 #include "pch.h"
 #include <iostream>
-#include "RomanToInteger.h"
-using namespace std;
+#include "3Sum.h"
 
 int main()
 {
@@ -12,11 +11,10 @@ int main()
 
 	///test place
 
-	RomanToInteger a;
+	ThreeSum a;
 	a.Solve();
 
 	///
-
 	system("pause");
 
 	return 0;

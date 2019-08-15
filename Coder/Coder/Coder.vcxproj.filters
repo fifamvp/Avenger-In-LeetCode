@@ -55,6 +55,9 @@
     <Filter Include="Header Files\Longest Common Prefix">
       <UniqueIdentifier>{76b5f3a4-2cb2-47a9-a841-b47a9d323939}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\3Sum">
+      <UniqueIdentifier>{07149e8d-cf6e-43b6-97c1-f92fd3e1e388}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -101,6 +104,9 @@
     </ClInclude>
     <ClInclude Include="LongestCommonPrefix.h">
       <Filter>Header Files\Longest Common Prefix</Filter>
+    </ClInclude>
+    <ClInclude Include="3Sum.h">
+      <Filter>Header Files\3Sum</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
