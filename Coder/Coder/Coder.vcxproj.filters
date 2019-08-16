@@ -58,6 +58,9 @@
     <Filter Include="Header Files\3Sum">
       <UniqueIdentifier>{07149e8d-cf6e-43b6-97c1-f92fd3e1e388}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\3Sum Closest">
+      <UniqueIdentifier>{98ac57b2-fb4e-4a80-a8cb-457241d2b3e6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -107,6 +110,9 @@
     </ClInclude>
     <ClInclude Include="3Sum.h">
       <Filter>Header Files\3Sum</Filter>
+    </ClInclude>
+    <ClInclude Include="3SumClosest.h">
+      <Filter>Header Files\3Sum Closest</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
