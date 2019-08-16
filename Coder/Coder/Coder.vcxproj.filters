@@ -67,6 +67,9 @@
     <Filter Include="Header Files\4Sum">
       <UniqueIdentifier>{5da2ed34-a2db-400e-9e60-48bb90278f96}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Remove Nth Node From End of List">
+      <UniqueIdentifier>{27d1af7f-9d5b-43cf-943f-e59d6a4689b3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -125,6 +128,9 @@
     </ClInclude>
     <ClInclude Include="4Sum.h">
       <Filter>Header Files\4Sum</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveNthNodeFromEndOfList.h">
+      <Filter>Header Files\Remove Nth Node From End of List</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
