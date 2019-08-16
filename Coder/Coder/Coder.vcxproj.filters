@@ -64,6 +64,9 @@
     <Filter Include="Header Files\Letter Combinations of a Phone Number">
       <UniqueIdentifier>{f4911fe9-e7af-4878-be64-78d2e6213cab}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\4Sum">
+      <UniqueIdentifier>{5da2ed34-a2db-400e-9e60-48bb90278f96}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -119,6 +122,9 @@
     </ClInclude>
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h">
       <Filter>Header Files\Letter Combinations of a Phone Number</Filter>
+    </ClInclude>
+    <ClInclude Include="4Sum.h">
+      <Filter>Header Files\4Sum</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

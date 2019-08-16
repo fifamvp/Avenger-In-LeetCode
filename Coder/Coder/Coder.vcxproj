@@ -153,6 +153,7 @@
   <ItemGroup>
     <ClInclude Include="3Sum.h" />
     <ClInclude Include="3SumClosest.h" />
+    <ClInclude Include="4Sum.h" />
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="IntegerToRoman.h" />
