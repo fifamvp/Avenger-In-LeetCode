@@ -61,6 +61,9 @@
     <Filter Include="Header Files\3Sum Closest">
       <UniqueIdentifier>{98ac57b2-fb4e-4a80-a8cb-457241d2b3e6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Letter Combinations of a Phone Number">
+      <UniqueIdentifier>{f4911fe9-e7af-4878-be64-78d2e6213cab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -113,6 +116,9 @@
     </ClInclude>
     <ClInclude Include="3SumClosest.h">
       <Filter>Header Files\3Sum Closest</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterCombinationsOfAPhoneNumber.h">
+      <Filter>Header Files\Letter Combinations of a Phone Number</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
