@@ -169,6 +169,7 @@
     <ClInclude Include="RomanToInteger.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="TwoSum.h" />
+    <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ZigZagConversion.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>

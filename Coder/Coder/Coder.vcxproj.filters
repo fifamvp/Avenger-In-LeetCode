@@ -70,6 +70,9 @@
     <Filter Include="Header Files\Remove Nth Node From End of List">
       <UniqueIdentifier>{27d1af7f-9d5b-43cf-943f-e59d6a4689b3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Valid Parentheses">
+      <UniqueIdentifier>{467f751b-9edd-481c-9f5e-2595d72a0dc1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -131,6 +134,9 @@
     </ClInclude>
     <ClInclude Include="RemoveNthNodeFromEndOfList.h">
       <Filter>Header Files\Remove Nth Node From End of List</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidParentheses.h">
+      <Filter>Header Files\Valid Parentheses</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
