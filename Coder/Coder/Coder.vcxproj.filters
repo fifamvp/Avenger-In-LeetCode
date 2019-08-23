@@ -13,136 +13,79 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Header Files\ZigZag Conversion">
-      <UniqueIdentifier>{f6832848-7fb8-4a8b-a555-532385760b76}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Two Sum">
-      <UniqueIdentifier>{69e0b4bd-2553-4e26-b089-9692f3eb0013}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Add Two Numbers">
-      <UniqueIdentifier>{e67391a8-23c2-414d-b977-9eebae7dff02}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Longest Substring Without Repeating Characters">
-      <UniqueIdentifier>{3d9d7c89-ff6c-4dc2-83a5-cd2cc2affc61}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Median of Two Sorted Arrays">
-      <UniqueIdentifier>{cdc1cbcd-9f39-4fb0-8a19-6032e937739c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Longest Palindromic Substring">
-      <UniqueIdentifier>{60f642f7-7900-4100-b496-fcb26a90a3c8}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Reverse Integer">
-      <UniqueIdentifier>{e9e407f4-c6a6-41be-9542-6bcf346a0d46}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\String to Integer %28atoi%29">
-      <UniqueIdentifier>{f3a5b760-4747-4e1c-89c4-1c35dce2bfca}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Palindrome Number">
-      <UniqueIdentifier>{4d88e2c7-9b07-417d-9aa1-335b21357484}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Regular Expression Matching">
-      <UniqueIdentifier>{f7584582-a050-4cdc-9950-a7d6d9128301}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Container With Most Water">
-      <UniqueIdentifier>{6f65bf4a-8976-48dd-9656-a5382a353efd}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Integer to Roman">
-      <UniqueIdentifier>{967d2d78-1db8-481d-b642-be5d76787bcf}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Roman to Integer">
-      <UniqueIdentifier>{290a2530-c516-434f-9475-284939086212}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Longest Common Prefix">
-      <UniqueIdentifier>{76b5f3a4-2cb2-47a9-a841-b47a9d323939}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\3Sum">
-      <UniqueIdentifier>{07149e8d-cf6e-43b6-97c1-f92fd3e1e388}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\3Sum Closest">
-      <UniqueIdentifier>{98ac57b2-fb4e-4a80-a8cb-457241d2b3e6}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Letter Combinations of a Phone Number">
-      <UniqueIdentifier>{f4911fe9-e7af-4878-be64-78d2e6213cab}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\4Sum">
-      <UniqueIdentifier>{5da2ed34-a2db-400e-9e60-48bb90278f96}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Remove Nth Node From End of List">
-      <UniqueIdentifier>{27d1af7f-9d5b-43cf-943f-e59d6a4689b3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Valid Parentheses">
-      <UniqueIdentifier>{467f751b-9edd-481c-9f5e-2595d72a0dc1}</UniqueIdentifier>
+    <Filter Include="Header Files\0001-0100">
+      <UniqueIdentifier>{50dc3877-98da-4455-8caf-fe26acf25203}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ZigZagConversion.h">
-      <Filter>Header Files\ZigZag Conversion</Filter>
-    </ClInclude>
-    <ClInclude Include="TwoSum.h">
-      <Filter>Header Files\Two Sum</Filter>
-    </ClInclude>
-    <ClInclude Include="AddTwoNumbers.h">
-      <Filter>Header Files\Add Two Numbers</Filter>
-    </ClInclude>
     <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h">
-      <Filter>Header Files\Longest Substring Without Repeating Characters</Filter>
+      <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
     <ClInclude Include="MedianOfTwoSortedArrays.h">
-      <Filter>Header Files\Median of Two Sorted Arrays</Filter>
+      <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
     <ClInclude Include="LongestPalindromicSubstring.h">
-      <Filter>Header Files\Longest Palindromic Substring</Filter>
-    </ClInclude>
-    <ClInclude Include="ReverseInteger.h">
-      <Filter>Header Files\Reverse Integer</Filter>
-    </ClInclude>
-    <ClInclude Include="StringToInteger.h">
-      <Filter>Header Files\String to Integer %28atoi%29</Filter>
-    </ClInclude>
-    <ClInclude Include="PalindromeNumber.h">
-      <Filter>Header Files\Palindrome Number</Filter>
-    </ClInclude>
-    <ClInclude Include="RegularExpressionMatching.h">
-      <Filter>Header Files\Regular Expression Matching</Filter>
-    </ClInclude>
-    <ClInclude Include="ContainerWithMostWater.h">
-      <Filter>Header Files\Container With Most Water</Filter>
-    </ClInclude>
-    <ClInclude Include="IntegerToRoman.h">
-      <Filter>Header Files\Integer to Roman</Filter>
-    </ClInclude>
-    <ClInclude Include="RomanToInteger.h">
-      <Filter>Header Files\Roman to Integer</Filter>
+      <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
     <ClInclude Include="LongestCommonPrefix.h">
-      <Filter>Header Files\Longest Common Prefix</Filter>
-    </ClInclude>
-    <ClInclude Include="3Sum.h">
-      <Filter>Header Files\3Sum</Filter>
-    </ClInclude>
-    <ClInclude Include="3SumClosest.h">
-      <Filter>Header Files\3Sum Closest</Filter>
+      <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h">
-      <Filter>Header Files\Letter Combinations of a Phone Number</Filter>
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="IntegerToRoman.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="ContainerWithMostWater.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="AddTwoNumbers.h">
+      <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
     <ClInclude Include="4Sum.h">
-      <Filter>Header Files\4Sum</Filter>
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="3SumClosest.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="3Sum.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromeNumber.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="RegularExpressionMatching.h">
+      <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
     <ClInclude Include="RemoveNthNodeFromEndOfList.h">
-      <Filter>Header Files\Remove Nth Node From End of List</Filter>
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseInteger.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="RomanToInteger.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="StringToInteger.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSum.h">
+      <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
     <ClInclude Include="ValidParentheses.h">
-      <Filter>Header Files\Valid Parentheses</Filter>
+      <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
-    <ClInclude Include="MergeTwoSortedLists.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="ZigZagConversion.h">
+      <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
     <ClInclude Include="GenerateParentheses.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeTwoSortedLists.h">
+      <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
