@@ -163,6 +163,7 @@
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h" />
     <ClInclude Include="MedianOfTwoSortedArrays.h" />
+    <ClInclude Include="MergeKSortedLists.h" />
     <ClInclude Include="MergeTwoSortedLists.h" />
     <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="RegularExpressionMatching.h" />
