@@ -138,6 +138,12 @@
     <ClInclude Include="ValidParentheses.h">
       <Filter>Header Files\Valid Parentheses</Filter>
     </ClInclude>
+    <ClInclude Include="MergeTwoSortedLists.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GenerateParentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">

@@ -156,12 +156,14 @@
     <ClInclude Include="4Sum.h" />
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
+    <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="IntegerToRoman.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
     <ClInclude Include="LongestCommonPrefix.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h" />
     <ClInclude Include="MedianOfTwoSortedArrays.h" />
+    <ClInclude Include="MergeTwoSortedLists.h" />
     <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="RegularExpressionMatching.h" />
     <ClInclude Include="RemoveNthNodeFromEndOfList.h" />
