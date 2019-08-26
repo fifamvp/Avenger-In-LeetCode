@@ -169,6 +169,7 @@
     <ClInclude Include="RegularExpressionMatching.h" />
     <ClInclude Include="RemoveNthNodeFromEndOfList.h" />
     <ClInclude Include="ReverseInteger.h" />
+    <ClInclude Include="ReverseNodesInK-Group.h" />
     <ClInclude Include="RomanToInteger.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="SwapNodesInPairs.h" />
