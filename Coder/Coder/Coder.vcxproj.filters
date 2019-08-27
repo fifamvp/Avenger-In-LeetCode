@@ -96,6 +96,9 @@
     <ClInclude Include="ReverseNodesInK-Group.h">
       <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
+    <ClInclude Include="RemoveDuplicatesFromSortedArray.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
