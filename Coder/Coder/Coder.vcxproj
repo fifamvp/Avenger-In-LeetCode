@@ -168,6 +168,7 @@
     <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="RegularExpressionMatching.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedArray.h" />
+    <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="RemoveNthNodeFromEndOfList.h" />
     <ClInclude Include="ReverseInteger.h" />
     <ClInclude Include="ReverseNodesInK-Group.h" />
