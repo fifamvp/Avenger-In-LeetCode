@@ -157,6 +157,7 @@
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="GenerateParentheses.h" />
+    <ClInclude Include="ImplementStrStr().h" />
     <ClInclude Include="IntegerToRoman.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
     <ClInclude Include="LongestCommonPrefix.h" />
