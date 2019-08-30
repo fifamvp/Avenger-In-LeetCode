@@ -156,6 +156,7 @@
     <ClInclude Include="4Sum.h" />
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
+    <ClInclude Include="DivideTwoIntegers.h" />
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="ImplementStrStr().h" />
     <ClInclude Include="IntegerToRoman.h" />
