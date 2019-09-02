@@ -108,6 +108,12 @@
     <ClInclude Include="DivideTwoIntegers.h">
       <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
+    <ClInclude Include="SubstringWithConcatenationOfAllWords.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="HQ.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
