@@ -165,6 +165,7 @@
     <ClInclude Include="LongestCommonPrefix.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h" />
+    <ClInclude Include="LongestValidParentheses.h" />
     <ClInclude Include="MedianOfTwoSortedArrays.h" />
     <ClInclude Include="MergeKSortedLists.h" />
     <ClInclude Include="MergeTwoSortedLists.h" />

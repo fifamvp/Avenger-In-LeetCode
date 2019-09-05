@@ -117,6 +117,9 @@
     <ClInclude Include="NextPermutation.h">
       <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
+    <ClInclude Include="LongestValidParentheses.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
