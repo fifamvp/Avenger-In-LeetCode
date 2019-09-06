@@ -179,6 +179,7 @@
     <ClInclude Include="ReverseInteger.h" />
     <ClInclude Include="ReverseNodesInK-Group.h" />
     <ClInclude Include="RomanToInteger.h" />
+    <ClInclude Include="Search Insert Position.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="SubstringWithConcatenationOfAllWords.h" />
