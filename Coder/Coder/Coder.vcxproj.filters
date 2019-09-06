@@ -123,6 +123,9 @@
     <ClInclude Include="SearchInRotatedSortedArray.h">
       <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
+    <ClInclude Include="Find First and Last Position of Element in Sorted Array.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">

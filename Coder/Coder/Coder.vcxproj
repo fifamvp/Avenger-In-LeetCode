@@ -157,6 +157,7 @@
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="DivideTwoIntegers.h" />
+    <ClInclude Include="Find First and Last Position of Element in Sorted Array.h" />
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="HQ.h" />
     <ClInclude Include="ImplementStrStr().h" />
