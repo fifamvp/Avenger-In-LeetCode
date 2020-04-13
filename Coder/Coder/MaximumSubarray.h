@@ -43,6 +43,7 @@ private:
 	}
 
 	// O(n)
+	// 4 ms	7.2 MB
 	int maxSubArray2(vector<int>& nums) {
 		int n = (int)nums.size();
 		if (n == 0) return INT_MIN;
@@ -59,6 +60,7 @@ private:
 	}
 
 	// divide and conquer
+	// 8 ms	7 MB
 	int maxSubArray3(vector<int>& nums) {
 		int n = (int)nums.size();
 		if (n == 0) return INT_MIN;
