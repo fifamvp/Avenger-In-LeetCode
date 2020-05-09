@@ -135,6 +135,9 @@
     <ClInclude Include="MaximumSubarray.h">
       <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
+    <ClInclude Include="ClimbingStairs.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
