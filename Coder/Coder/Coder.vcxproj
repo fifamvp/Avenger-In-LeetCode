@@ -155,11 +155,13 @@
     <ClInclude Include="3SumClosest.h" />
     <ClInclude Include="4Sum.h" />
     <ClInclude Include="AddTwoNumbers.h" />
+    <ClInclude Include="BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="DivideTwoIntegers.h" />
     <ClInclude Include="Find First and Last Position of Element in Sorted Array.h" />
     <ClInclude Include="GenerateParentheses.h" />
+    <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="HQ.h" />
     <ClInclude Include="ImplementStrStr().h" />
     <ClInclude Include="IntegerToRoman.h" />

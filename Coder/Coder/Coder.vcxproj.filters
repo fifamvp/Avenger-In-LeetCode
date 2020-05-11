@@ -16,6 +16,9 @@
     <Filter Include="Header Files\0001-0100">
       <UniqueIdentifier>{50dc3877-98da-4455-8caf-fe26acf25203}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\0101-0200">
+      <UniqueIdentifier>{c31ffd30-1af7-44a6-bd2a-656481c85297}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -137,6 +140,12 @@
     </ClInclude>
     <ClInclude Include="ClimbingStairs.h">
       <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="BestTimeToBuyAndSellStock.h">
+      <Filter>Header Files\0101-0200</Filter>
+    </ClInclude>
+    <ClInclude Include="HouseRobber.h">
+      <Filter>Header Files\0101-0200</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
