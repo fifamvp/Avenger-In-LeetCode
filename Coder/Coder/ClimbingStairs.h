@@ -38,6 +38,7 @@ private:
 		return stairs[n];
 	}
 
+	// 0 ms	5.9 MB
 	// Fibonacci, n > 0
 	int climbStairs2(int n)
 	{
