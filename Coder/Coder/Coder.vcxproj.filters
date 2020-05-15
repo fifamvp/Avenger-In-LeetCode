@@ -147,6 +147,9 @@
     <ClInclude Include="HouseRobber.h">
       <Filter>Header Files\0101-0200</Filter>
     </ClInclude>
+    <ClInclude Include="UniquePaths.h">
+      <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">

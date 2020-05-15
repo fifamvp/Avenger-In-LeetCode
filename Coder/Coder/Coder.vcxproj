@@ -189,6 +189,7 @@
     <ClInclude Include="SubstringWithConcatenationOfAllWords.h" />
     <ClInclude Include="SwapNodesInPairs.h" />
     <ClInclude Include="TwoSum.h" />
+    <ClInclude Include="UniquePaths.h" />
     <ClInclude Include="Valid Sudoku.h" />
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ZigZagConversion.h" />
