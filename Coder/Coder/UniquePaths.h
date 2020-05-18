@@ -1,5 +1,7 @@
 #pragma once
 #include <iostream>
+#include <algorithm>
+#include <vector>
 using namespace std;
 class Solution
 {
@@ -12,7 +14,6 @@ public:
 		printf("%d\n", uniquePaths(3, 2));
 		printf("%d\n", uniquePaths(7, 3));
 		printf("%d\n", uniquePaths(5, 100));
-
 	}
 
 private:
@@ -41,6 +42,27 @@ private:
 		}
 
 		return *(arr + i * n + j);
+	}
+
+	// 0 ms	6.3 MB
+	int uniquePaths3(int m, int n) {
+		vector<int> column(n, 1);
+		for (int i = 1; i < m; i++) {
+			for (int j = 1; j < n; j++) {
+				column[j] += column[j - 1];
+			}
+		}
+		return column[n - 1];
+	}
+	
+	// Math, Composition(m+n-2,n-1)
+	// 0 ms	5.9 MB
+	int uniquePaths2(int m, int n) {
+		int A = m + n - 2, B = std::min(m - 1, n - 1);
+		long long result = 1;
+		for (int i = 1; i <= B; ++i)
+			result = result * A-- / i;
+		return static_cast<int>(result);
 	}
 };
 
