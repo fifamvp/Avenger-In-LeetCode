@@ -19,6 +19,9 @@
     <Filter Include="Header Files\0101-0200">
       <UniqueIdentifier>{c31ffd30-1af7-44a6-bd2a-656481c85297}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\0201-0300">
+      <UniqueIdentifier>{c1521fbe-9a9e-4cd6-9dbb-4a76e9924c7d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -149,6 +152,9 @@
     </ClInclude>
     <ClInclude Include="UniquePaths.h">
       <Filter>Header Files\0001-0100</Filter>
+    </ClInclude>
+    <ClInclude Include="PerfectSquares.h">
+      <Filter>Header Files\0201-0300</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

@@ -176,6 +176,7 @@
     <ClInclude Include="MergeTwoSortedLists.h" />
     <ClInclude Include="NextPermutation.h" />
     <ClInclude Include="PalindromeNumber.h" />
+    <ClInclude Include="PerfectSquares.h" />
     <ClInclude Include="RegularExpressionMatching.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="RemoveElement.h" />
