@@ -194,6 +194,7 @@
     <ClInclude Include="UniquePaths.h" />
     <ClInclude Include="Valid Sudoku.h" />
     <ClInclude Include="ValidParentheses.h" />
+    <ClInclude Include="WordBreak.h" />
     <ClInclude Include="ZigZagConversion.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>

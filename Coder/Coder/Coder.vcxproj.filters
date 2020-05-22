@@ -159,6 +159,9 @@
     <ClInclude Include="LongestIncreasingSubsequence.h">
       <Filter>Header Files\0201-0300</Filter>
     </ClInclude>
+    <ClInclude Include="WordBreak.h">
+      <Filter>Header Files\0101-0200</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
