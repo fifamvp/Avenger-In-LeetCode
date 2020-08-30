@@ -165,6 +165,9 @@
     <ClInclude Include="Solutions\DynamicProgramming\WordBreak.h">
       <Filter>Header Files\Solutions\DynamicProgramming</Filter>
     </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\MaximumProductSubarray.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">

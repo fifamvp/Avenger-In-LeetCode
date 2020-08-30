@@ -186,6 +186,7 @@
     <ClInclude Include="Solutions\DynamicProgramming\DecodeWays.h" />
     <ClInclude Include="Solutions\DynamicProgramming\HouseRobber.h" />
     <ClInclude Include="Solutions\DynamicProgramming\LongestIncreasingSubsequence.h" />
+    <ClInclude Include="Solutions\DynamicProgramming\MaximumProductSubarray.h" />
     <ClInclude Include="Solutions\DynamicProgramming\MaximumSubarray.h" />
     <ClInclude Include="Solutions\DynamicProgramming\PerfectSquares.h" />
     <ClInclude Include="Solutions\DynamicProgramming\RegularExpressionMatching.h" />
