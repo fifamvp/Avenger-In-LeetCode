@@ -23,7 +23,7 @@
     <ProjectGuid>{BB7C6E31-3B74-481B-96F4-7E24087BA91A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Coder</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -106,6 +106,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>$(ProjectDir)Solutions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -187,6 +188,7 @@
     <ClInclude Include="RomanToInteger.h" />
     <ClInclude Include="Search Insert Position.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
+    <ClInclude Include="Solutions\DynamicProgramming\DecodeWays.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="SubstringWithConcatenationOfAllWords.h" />
     <ClInclude Include="SwapNodesInPairs.h" />

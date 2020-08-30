@@ -3,7 +3,7 @@
 
 #include "pch.h"
 #include <iostream>
-#include "3Sum.h"
+#include "DynamicProgramming/DecodeWays.h"
 
 int main()
 {
@@ -11,7 +11,7 @@ int main()
 
 	///test place
 
-	ThreeSum a;
+	Solution a;
 	a.Solve();
 
 	///
