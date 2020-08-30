@@ -16,12 +16,6 @@
     <Filter Include="Header Files\0001-0100">
       <UniqueIdentifier>{50dc3877-98da-4455-8caf-fe26acf25203}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Header Files\0101-0200">
-      <UniqueIdentifier>{c31ffd30-1af7-44a6-bd2a-656481c85297}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\0201-0300">
-      <UniqueIdentifier>{c1521fbe-9a9e-4cd6-9dbb-4a76e9924c7d}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Header Files\Solutions">
       <UniqueIdentifier>{912a2cdb-4357-4a70-8c61-3d6e9a6d5f51}</UniqueIdentifier>
     </Filter>
@@ -67,9 +61,6 @@
       <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
     <ClInclude Include="PalindromeNumber.h">
-      <Filter>Header Files\0001-0100</Filter>
-    </ClInclude>
-    <ClInclude Include="RegularExpressionMatching.h">
       <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
     <ClInclude Include="RemoveNthNodeFromEndOfList.h">
@@ -144,31 +135,34 @@
     <ClInclude Include="Valid Sudoku.h">
       <Filter>Header Files\0001-0100</Filter>
     </ClInclude>
-    <ClInclude Include="MaximumSubarray.h">
-      <Filter>Header Files\0001-0100</Filter>
-    </ClInclude>
-    <ClInclude Include="ClimbingStairs.h">
-      <Filter>Header Files\0001-0100</Filter>
-    </ClInclude>
-    <ClInclude Include="BestTimeToBuyAndSellStock.h">
-      <Filter>Header Files\0101-0200</Filter>
-    </ClInclude>
-    <ClInclude Include="HouseRobber.h">
-      <Filter>Header Files\0101-0200</Filter>
-    </ClInclude>
-    <ClInclude Include="UniquePaths.h">
-      <Filter>Header Files\0001-0100</Filter>
-    </ClInclude>
-    <ClInclude Include="PerfectSquares.h">
-      <Filter>Header Files\0201-0300</Filter>
-    </ClInclude>
-    <ClInclude Include="LongestIncreasingSubsequence.h">
-      <Filter>Header Files\0201-0300</Filter>
-    </ClInclude>
-    <ClInclude Include="WordBreak.h">
-      <Filter>Header Files\0101-0200</Filter>
-    </ClInclude>
     <ClInclude Include="Solutions\DynamicProgramming\DecodeWays.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\ClimbingStairs.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\BestTimeToBuyAndSellStock.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\HouseRobber.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\LongestIncreasingSubsequence.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\MaximumSubarray.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\PerfectSquares.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\RegularExpressionMatching.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\UniquePaths.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\WordBreak.h">
       <Filter>Header Files\Solutions\DynamicProgramming</Filter>
     </ClInclude>
   </ItemGroup>
