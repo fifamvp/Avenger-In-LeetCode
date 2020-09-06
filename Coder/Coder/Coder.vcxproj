@@ -192,6 +192,7 @@
     <ClInclude Include="Solutions\DynamicProgramming\PerfectSquares.h" />
     <ClInclude Include="Solutions\DynamicProgramming\RegularExpressionMatching.h" />
     <ClInclude Include="Solutions\DynamicProgramming\UniquePaths.h" />
+    <ClInclude Include="Solutions\DynamicProgramming\WildcardMatching.h" />
     <ClInclude Include="Solutions\DynamicProgramming\WordBreak.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="SubstringWithConcatenationOfAllWords.h" />

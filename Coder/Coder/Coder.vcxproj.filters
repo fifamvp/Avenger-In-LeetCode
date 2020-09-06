@@ -171,6 +171,9 @@
     <ClInclude Include="Solutions\DynamicProgramming\CoinChange.h">
       <Filter>Header Files\Solutions\DynamicProgramming</Filter>
     </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\WildcardMatching.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
