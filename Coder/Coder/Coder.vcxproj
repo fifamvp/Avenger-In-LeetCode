@@ -183,6 +183,7 @@
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="Solutions\DynamicProgramming\BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="Solutions\DynamicProgramming\ClimbingStairs.h" />
+    <ClInclude Include="Solutions\DynamicProgramming\CoinChange.h" />
     <ClInclude Include="Solutions\DynamicProgramming\DecodeWays.h" />
     <ClInclude Include="Solutions\DynamicProgramming\HouseRobber.h" />
     <ClInclude Include="Solutions\DynamicProgramming\LongestIncreasingSubsequence.h" />
