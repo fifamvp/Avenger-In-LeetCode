@@ -22,6 +22,9 @@
     <Filter Include="Header Files\Solutions\DynamicProgramming">
       <UniqueIdentifier>{df88428b-78a7-4052-93b2-990a1dca6bdd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Solutions\String">
+      <UniqueIdentifier>{1610a981-4ae4-4c0e-98c0-9b3cd197971a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -170,6 +173,15 @@
     </ClInclude>
     <ClInclude Include="Solutions\DynamicProgramming\CoinChange.h">
       <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\WildcardMatching.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\DynamicProgramming\WordBreakII.h">
+      <Filter>Header Files\Solutions\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\String\ReverseWordsInAString.h">
+      <Filter>Header Files\Solutions\String</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
