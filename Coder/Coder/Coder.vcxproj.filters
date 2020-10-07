@@ -25,6 +25,9 @@
     <Filter Include="Header Files\Solutions\String">
       <UniqueIdentifier>{1610a981-4ae4-4c0e-98c0-9b3cd197971a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Solutions\Tree">
+      <UniqueIdentifier>{02b94918-4f8d-4878-b0ea-a21dee700f31}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -182,6 +185,9 @@
     </ClInclude>
     <ClInclude Include="Solutions\String\ReverseWordsInAString.h">
       <Filter>Header Files\Solutions\String</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Tree\TrimABinarySearchTree.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
