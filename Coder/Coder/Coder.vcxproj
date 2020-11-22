@@ -106,7 +106,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
-      <AdditionalIncludeDirectories>$(ProjectDir)Solutions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)Common;$(ProjectDir)Solutions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -156,6 +156,7 @@
     <ClInclude Include="3SumClosest.h" />
     <ClInclude Include="4Sum.h" />
     <ClInclude Include="AddTwoNumbers.h" />
+    <ClInclude Include="Common\TreeNode.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="DivideTwoIntegers.h" />
     <ClInclude Include="Find First and Last Position of Element in Sorted Array.h" />
@@ -199,6 +200,7 @@
     <ClInclude Include="Solutions\Tree\DiameterOfBinaryTree.h" />
     <ClInclude Include="Solutions\Tree\InvertBinaryTree.h" />
     <ClInclude Include="Solutions\Tree\MaximumDepthOfBinaryTree.h" />
+    <ClInclude Include="Solutions\Tree\MergeTwoBinaryTrees.h" />
     <ClInclude Include="Solutions\Tree\SymmetricTree.h" />
     <ClInclude Include="Solutions\Tree\TrimABinarySearchTree.h" />
     <ClInclude Include="StringToInteger.h" />

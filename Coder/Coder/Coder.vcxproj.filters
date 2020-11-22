@@ -28,6 +28,9 @@
     <Filter Include="Header Files\Solutions\Tree">
       <UniqueIdentifier>{02b94918-4f8d-4878-b0ea-a21dee700f31}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Common">
+      <UniqueIdentifier>{3e4f66af-1c50-4e70-9bfd-d31f03d0a2ff}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -200,6 +203,12 @@
     </ClInclude>
     <ClInclude Include="Solutions\Tree\DiameterOfBinaryTree.h">
       <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Tree\MergeTwoBinaryTrees.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\TreeNode.h">
+      <Filter>Header Files\Common</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
