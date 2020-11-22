@@ -192,6 +192,9 @@
     <ClInclude Include="Solutions\Tree\MaximumDepthOfBinaryTree.h">
       <Filter>Header Files\Solutions\Tree</Filter>
     </ClInclude>
+    <ClInclude Include="Solutions\Tree\SymmetricTree.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">

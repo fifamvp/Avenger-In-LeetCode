@@ -197,6 +197,7 @@
     <ClInclude Include="Solutions\DynamicProgramming\WordBreakII.h" />
     <ClInclude Include="Solutions\String\ReverseWordsInAString.h" />
     <ClInclude Include="Solutions\Tree\MaximumDepthOfBinaryTree.h" />
+    <ClInclude Include="Solutions\Tree\SymmetricTree.h" />
     <ClInclude Include="Solutions\Tree\TrimABinarySearchTree.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="SubstringWithConcatenationOfAllWords.h" />
