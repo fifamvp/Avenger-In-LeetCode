@@ -198,6 +198,9 @@
     <ClInclude Include="Solutions\Tree\InvertBinaryTree.h">
       <Filter>Header Files\Solutions\Tree</Filter>
     </ClInclude>
+    <ClInclude Include="Solutions\Tree\DiameterOfBinaryTree.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
