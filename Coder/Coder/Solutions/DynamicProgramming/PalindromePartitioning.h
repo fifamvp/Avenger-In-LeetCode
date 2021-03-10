@@ -45,7 +45,7 @@ private:
 					tmp.push_back(cur);
 					r.push_back(tmp);
 
-					int num = result[j].size();
+					int num = (int)result[j].size();
 					bool hasConcatLast = false;
 					if (num > 0)
 					{
