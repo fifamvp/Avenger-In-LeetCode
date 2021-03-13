@@ -222,6 +222,12 @@
     <ClInclude Include="Solutions\Tree\UniqueBinarySearchTrees.h">
       <Filter>Header Files\Solutions\Tree</Filter>
     </ClInclude>
+    <ClInclude Include="Solutions\Tree\ValidateBinarySearchTree.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Tree\BinaryTreeLevelOrderTraversal.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
