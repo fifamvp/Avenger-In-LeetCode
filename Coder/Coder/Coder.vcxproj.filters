@@ -228,6 +228,15 @@
     <ClInclude Include="Solutions\Tree\BinaryTreeLevelOrderTraversal.h">
       <Filter>Header Files\Solutions\Tree</Filter>
     </ClInclude>
+    <ClInclude Include="Solutions\Tree\BinaryTreeMaximumPathSum.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Tree\ConstructBinaryTreeFromPreorderAndInorderTraversal.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Tree\FlattenBinaryTreeToLinkedList.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
