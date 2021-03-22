@@ -202,6 +202,7 @@
     <ClInclude Include="Solutions\Tree\BinaryTreeInorderTraversal.h" />
     <ClInclude Include="Solutions\Tree\BinaryTreeLevelOrderTraversal.h" />
     <ClInclude Include="Solutions\Tree\BinaryTreeMaximumPathSum.h" />
+    <ClInclude Include="Solutions\Tree\BinaryTreeRightSideView.h" />
     <ClInclude Include="Solutions\Tree\ConstructBinaryTreeFromPreorderAndInorderTraversal.h" />
     <ClInclude Include="Solutions\Tree\DiameterOfBinaryTree.h" />
     <ClInclude Include="Solutions\Tree\FlattenBinaryTreeToLinkedList.h" />
