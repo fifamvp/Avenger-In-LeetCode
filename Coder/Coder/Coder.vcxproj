@@ -206,9 +206,14 @@
     <ClInclude Include="Solutions\Tree\ConstructBinaryTreeFromPreorderAndInorderTraversal.h" />
     <ClInclude Include="Solutions\Tree\DiameterOfBinaryTree.h" />
     <ClInclude Include="Solutions\Tree\FlattenBinaryTreeToLinkedList.h" />
+    <ClInclude Include="Solutions\Tree\HouseRobberIII.h" />
     <ClInclude Include="Solutions\Tree\InvertBinaryTree.h" />
+    <ClInclude Include="Solutions\Tree\KthSmallestElementInABST.h" />
+    <ClInclude Include="Solutions\Tree\LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="Solutions\Tree\MaximumDepthOfBinaryTree.h" />
     <ClInclude Include="Solutions\Tree\MergeTwoBinaryTrees.h" />
+    <ClInclude Include="Solutions\Tree\PathSumIII.h" />
+    <ClInclude Include="Solutions\Tree\SerializeAndDeserializeBinaryTree.h" />
     <ClInclude Include="Solutions\Tree\SymmetricTree.h" />
     <ClInclude Include="Solutions\Tree\TrimABinarySearchTree.h" />
     <ClInclude Include="Solutions\Tree\UniqueBinarySearchTrees.h" />

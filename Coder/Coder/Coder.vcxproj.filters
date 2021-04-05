@@ -240,6 +240,21 @@
     <ClInclude Include="Solutions\Tree\BinaryTreeRightSideView.h">
       <Filter>Header Files\Solutions\Tree</Filter>
     </ClInclude>
+    <ClInclude Include="Solutions\Tree\KthSmallestElementInABST.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Tree\LowestCommonAncestorOfABinaryTree.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Tree\SerializeAndDeserializeBinaryTree.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Tree\HouseRobberIII.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Tree\PathSumIII.h">
+      <Filter>Header Files\Solutions\Tree</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
