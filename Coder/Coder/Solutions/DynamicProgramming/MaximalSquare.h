@@ -64,7 +64,7 @@ private:
 		return maxWidth * maxWidth;
 	}
 
-	// 24 ms	11.1 MB
+	// 20 ms	11.2 MB
 	int maximalSquare2_1(vector<vector<char>>& matrix) {
 		if (matrix.empty()) return 0;
 		int maxWidth = 0, m = matrix.size(), n = matrix[0].size(), pre = 0;
