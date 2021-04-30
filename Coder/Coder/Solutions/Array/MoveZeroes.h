@@ -41,6 +41,7 @@ private:
 		}
 	}
 #elif S2_1
+	// 4 ms	9.1 MB
 	void moveZeroes(vector<int>& nums) {
 		for (int lastNonZeroFoundAt = 0, cur = 0; cur < nums.size(); cur++) {
 			if (nums[cur] != 0) {
