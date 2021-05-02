@@ -306,6 +306,21 @@
     <ClInclude Include="Solutions\Stack\MinStack.h">
       <Filter>Header Files\Solutions\Stack</Filter>
     </ClInclude>
+    <ClInclude Include="Solutions\LinkedList\LinkedListCycle.h">
+      <Filter>Header Files\Solutions\LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\LinkedList\LinkedListCycleII.h">
+      <Filter>Header Files\Solutions\LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Array\MajorityElement.h">
+      <Filter>Header Files\Solutions\Array</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Array\CombinationSum.h">
+      <Filter>Header Files\Solutions\Array</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Array\JumpGameII.h">
+      <Filter>Header Files\Solutions\Array</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
