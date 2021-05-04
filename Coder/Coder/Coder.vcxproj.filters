@@ -43,6 +43,12 @@
     <Filter Include="Header Files\Solutions\Stack">
       <UniqueIdentifier>{a3dc0d45-58a7-49cf-a773-b680f9a8bce2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Solutions\Backtracking">
+      <UniqueIdentifier>{789d0c6e-e43b-4203-a5f0-ebd2e9eb3b2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Solutions\HashTable">
+      <UniqueIdentifier>{14b988cc-ac92-44c3-aedf-839a63179152}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -319,6 +325,21 @@
       <Filter>Header Files\Solutions\Array</Filter>
     </ClInclude>
     <ClInclude Include="Solutions\Array\JumpGameII.h">
+      <Filter>Header Files\Solutions\Array</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Backtracking\Permutations.h">
+      <Filter>Header Files\Solutions\Backtracking</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Array\RotateImage.h">
+      <Filter>Header Files\Solutions\Array</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\HashTable\GroupAnagrams.h">
+      <Filter>Header Files\Solutions\HashTable</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Array\JumpGame.h">
+      <Filter>Header Files\Solutions\Array</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Array\MergeIntervals.h">
       <Filter>Header Files\Solutions\Array</Filter>
     </ClInclude>
   </ItemGroup>

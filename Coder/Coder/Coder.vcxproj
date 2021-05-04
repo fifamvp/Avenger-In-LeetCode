@@ -185,9 +185,13 @@
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="Solutions\Array\CombinationSum.h" />
     <ClInclude Include="Solutions\Array\FindAllNumbersDisappearedInAnArray.h" />
+    <ClInclude Include="Solutions\Array\JumpGame.h" />
     <ClInclude Include="Solutions\Array\JumpGameII.h" />
     <ClInclude Include="Solutions\Array\MajorityElement.h" />
+    <ClInclude Include="Solutions\Array\MergeIntervals.h" />
     <ClInclude Include="Solutions\Array\MoveZeroes.h" />
+    <ClInclude Include="Solutions\Array\RotateImage.h" />
+    <ClInclude Include="Solutions\Backtracking\Permutations.h" />
     <ClInclude Include="Solutions\BitManipulation\SingleNumber.h" />
     <ClInclude Include="Solutions\DynamicProgramming\BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="Solutions\DynamicProgramming\ClimbingStairs.h" />
@@ -210,6 +214,7 @@
     <ClInclude Include="Solutions\DynamicProgramming\WildcardMatching.h" />
     <ClInclude Include="Solutions\DynamicProgramming\WordBreak.h" />
     <ClInclude Include="Solutions\DynamicProgramming\WordBreakII.h" />
+    <ClInclude Include="Solutions\HashTable\GroupAnagrams.h" />
     <ClInclude Include="Solutions\LinkedList\IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="Solutions\LinkedList\LinkedListCycle.h" />
     <ClInclude Include="Solutions\LinkedList\LinkedListCycleII.h" />
