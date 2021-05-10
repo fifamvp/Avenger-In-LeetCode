@@ -49,6 +49,9 @@
     <Filter Include="Header Files\Solutions\HashTable">
       <UniqueIdentifier>{14b988cc-ac92-44c3-aedf-839a63179152}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Solutions\Sort">
+      <UniqueIdentifier>{a0054478-7553-4bbd-8e17-0ce04bb177bf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -341,6 +344,21 @@
     </ClInclude>
     <ClInclude Include="Solutions\Array\MergeIntervals.h">
       <Filter>Header Files\Solutions\Array</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Sort\SortColors.h">
+      <Filter>Header Files\Solutions\Sort</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Array\Subsets.h">
+      <Filter>Header Files\Solutions\Array</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Backtracking\WordSearch.h">
+      <Filter>Header Files\Solutions\Backtracking</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\Node.h">
+      <Filter>Header Files\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\LinkedList\CopyListWithRandomPointer.h">
+      <Filter>Header Files\Solutions\LinkedList</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

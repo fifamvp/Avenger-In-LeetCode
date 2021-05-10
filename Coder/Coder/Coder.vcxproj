@@ -157,6 +157,7 @@
     <ClInclude Include="4Sum.h" />
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="Common\ListNode.h" />
+    <ClInclude Include="Common\Node.h" />
     <ClInclude Include="Common\TreeNode.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="DivideTwoIntegers.h" />
@@ -191,7 +192,9 @@
     <ClInclude Include="Solutions\Array\MergeIntervals.h" />
     <ClInclude Include="Solutions\Array\MoveZeroes.h" />
     <ClInclude Include="Solutions\Array\RotateImage.h" />
+    <ClInclude Include="Solutions\Array\Subsets.h" />
     <ClInclude Include="Solutions\Backtracking\Permutations.h" />
+    <ClInclude Include="Solutions\Backtracking\WordSearch.h" />
     <ClInclude Include="Solutions\BitManipulation\SingleNumber.h" />
     <ClInclude Include="Solutions\DynamicProgramming\BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="Solutions\DynamicProgramming\ClimbingStairs.h" />
@@ -215,11 +218,13 @@
     <ClInclude Include="Solutions\DynamicProgramming\WordBreak.h" />
     <ClInclude Include="Solutions\DynamicProgramming\WordBreakII.h" />
     <ClInclude Include="Solutions\HashTable\GroupAnagrams.h" />
+    <ClInclude Include="Solutions\LinkedList\CopyListWithRandomPointer.h" />
     <ClInclude Include="Solutions\LinkedList\IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="Solutions\LinkedList\LinkedListCycle.h" />
     <ClInclude Include="Solutions\LinkedList\LinkedListCycleII.h" />
     <ClInclude Include="Solutions\LinkedList\PalindromeLinkedList.h" />
     <ClInclude Include="Solutions\LinkedList\ReverseLinkedList.h" />
+    <ClInclude Include="Solutions\Sort\SortColors.h" />
     <ClInclude Include="Solutions\Stack\MinStack.h" />
     <ClInclude Include="Solutions\String\ReverseWordsInAString.h" />
     <ClInclude Include="Solutions\Tree\BinaryTreeInorderTraversal.h" />
