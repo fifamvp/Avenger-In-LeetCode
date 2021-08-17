@@ -52,6 +52,9 @@
     <Filter Include="Header Files\Solutions\Sort">
       <UniqueIdentifier>{a0054478-7553-4bbd-8e17-0ce04bb177bf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Solutions\Design">
+      <UniqueIdentifier>{44d238dd-37ea-42a2-837e-7ef64cb4f2eb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -359,6 +362,15 @@
     </ClInclude>
     <ClInclude Include="Solutions\LinkedList\CopyListWithRandomPointer.h">
       <Filter>Header Files\Solutions\LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\Design\LRUCache.h">
+      <Filter>Header Files\Solutions\Design</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\String\LengthOfLastWord.h">
+      <Filter>Header Files\Solutions\String</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions\String\PartitionLabels.h">
+      <Filter>Header Files\Solutions\String</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

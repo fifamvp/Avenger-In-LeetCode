@@ -196,6 +196,7 @@
     <ClInclude Include="Solutions\Backtracking\Permutations.h" />
     <ClInclude Include="Solutions\Backtracking\WordSearch.h" />
     <ClInclude Include="Solutions\BitManipulation\SingleNumber.h" />
+    <ClInclude Include="Solutions\Design\LRUCache.h" />
     <ClInclude Include="Solutions\DynamicProgramming\BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="Solutions\DynamicProgramming\ClimbingStairs.h" />
     <ClInclude Include="Solutions\DynamicProgramming\CoinChange.h" />
@@ -226,6 +227,8 @@
     <ClInclude Include="Solutions\LinkedList\ReverseLinkedList.h" />
     <ClInclude Include="Solutions\Sort\SortColors.h" />
     <ClInclude Include="Solutions\Stack\MinStack.h" />
+    <ClInclude Include="Solutions\String\LengthOfLastWord.h" />
+    <ClInclude Include="Solutions\String\PartitionLabels.h" />
     <ClInclude Include="Solutions\String\ReverseWordsInAString.h" />
     <ClInclude Include="Solutions\Tree\BinaryTreeInorderTraversal.h" />
     <ClInclude Include="Solutions\Tree\BinaryTreeLevelOrderTraversal.h" />
